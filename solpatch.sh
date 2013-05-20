@@ -1,5 +1,5 @@
 #!/bin/bash
-# Script to automate the Solaris patching process at Hotwire
+# Script to automate the Solaris patching process
 #############################################################
 
 ############################################
